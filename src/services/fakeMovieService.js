@@ -56,7 +56,7 @@ const movies = [
     title: "The Sixth Sense",
     genre: { _id: "5b21ca3eeb7f6fbccd471820", name: "Thriller" },
     numberInStock: 4,
-    dailyRentalRate: 3.5
+    dailyRentalRate: 3.5,
   },
   {
     _id: "5b21ca3eeb7f6fbccd471821",
